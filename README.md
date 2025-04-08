@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! I'm a multi-language developer with a passion for building efficient, modern solutions.<br>
 Currently diving into **Rust** and **C#** while actively working with **Java**, **Kotlin**, **Python**.<br>
-CEO of **[@TheRebuild](https://github.com/TheRebuild)** and **[@Synth-discord-bot](https://github.com/Synth-discord-bot)**.<br>
+CEO of **[@TheRebuild](https://github.com/TheRebuild)**, **[@Synth-discord-bot](https://github.com/Synth-discord-bot)**, **[@LotusSeries](https://github.com/LotusSeries)**.<br>
 
 ---
 
